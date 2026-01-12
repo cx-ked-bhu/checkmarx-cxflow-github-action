@@ -1,5 +1,5 @@
 # Use CxFlow Base image (non-root)
-FROM itskedar/mycxflow:00240099
+FROM itskedar/mycxflow:00265407
 #switch to root 
 USER root
 #Copy script to import certs into Java cacerts keystore
